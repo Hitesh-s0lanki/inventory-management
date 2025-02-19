@@ -4,6 +4,20 @@
 
 The **Inventory Management System** is a web application built with **Next.js** for the frontend and **Node.js (Express)** for the backend. It allows businesses to manage their inventory efficiently by tracking products, sales, purchases, and expenses. The application is deployed on **AWS** using a secure and scalable architecture.
 
+## Screenshots
+
+Screenshots of the application can be found in the `screenshots` directory. To display them in this README, use the following format:
+
+![AWS](https://github.com/Hitesh-s0lanki/inventory-management/blob/main/screenshots/aws.png)
+
+![Dashboard](screenshots/dashboard.png)
+
+![Inventory Management](screenshots/inventory.png)
+
+![Product](screenshots/products.png)
+
+![Expense Summary](screenshots/graph.png)
+
 ## Features
 
 - **Product Management:** Add, update, delete, and view products with stock details.
@@ -111,17 +125,6 @@ Ensure you have the following installed:
 - Visit the hosted frontend URL and log in.
 - Manage products, sales, and expenses from the dashboard.
 - View graphical reports and analytics.
-
-## Screenshots
-
-Screenshots of the application can be found in the `screenshots` directory. To display them in this README, use the following format:
-
-![AWS](https://github.com/Hitesh-s0lanki/inventory-management/blob/main/screenshots/aws.png)
-![AWS](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fimage&psig=AOvVaw2DmHv0xZn06rIAsLdQ2Pzw&ust=1740075365290000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi9mIKs0IsDFQAAAAAdAAAAABAE)
-![Dashboard](screenshots/dashboard.png)
-![Inventory Management](screenshots/inventory.png)
-![Product](screenshots/products.png)
-![Expense Summary](screenshots/graph.png)
 
 ## Contributing
 
