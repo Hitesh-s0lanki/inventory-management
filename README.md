@@ -117,7 +117,8 @@ Ensure you have the following installed:
 Screenshots of the application can be found in the `screenshots` directory. To display them in this README, use the following format:
 
 ```markdown
-![AWS](screenshots/aws.png)
+![AWS](https://github.com/Hitesh-s0lanki/inventory-management/blob/main/screenshots/aws.png)
+![AWS](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fimage&psig=AOvVaw2DmHv0xZn06rIAsLdQ2Pzw&ust=1740075365290000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi9mIKs0IsDFQAAAAAdAAAAABAE)
 ![Dashboard](screenshots/dashboard.png)
 ![Inventory Management](screenshots/inventory.png)
 ![Product](screenshots/products.png)
